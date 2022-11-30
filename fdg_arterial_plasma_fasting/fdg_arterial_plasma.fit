@@ -1,0 +1,8 @@
+FIT1        fit_sinf 0.8.9  (c) 2005-2013 by Turku PET Centre
+Date:	2014-02-18 10:06:45
+Data file:	fdg_arterial_plasma.dat
+Data unit:	kBq/mL
+Time unit:	min
+Nr of VOIs:	1
+Region Plane	Start	End	dataNr	WSS	parNr	Type	Parameters
+Plasma . .	0.083	60.033	22	2.29E+000	10	0331	5.011139E-001	3.461569E-001	1.111569E+002	7.805481E+000	5.699555E+000	3.386341E-001	4.181790E+000	7.961674E-002	5.705464E+000	1.393305E-002
